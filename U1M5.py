@@ -1,7 +1,7 @@
 #		python code
 #		script_name:
 #
-#		author:
+#		author:Jingwen Huang
 #		description:In U1M5, 16 measures music fade in at the beginning and fade out at the end
 
 
